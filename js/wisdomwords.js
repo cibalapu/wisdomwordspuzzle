@@ -1,11 +1,10 @@
 window.wwdb = [
     {
-        "sentence": "存在即合理",
+        "sentence": "存在即消費",
         "grouping": [ 2, 1, 2 ],
         "separate": "by_group",
         "filled": [ false, true, false ]
-    },
-    {
+    }    /* ,{
         "sentence": "存在即合理",
         "grouping": [ 2, 1, 2 ],
         "separate": "by_group",
@@ -29,5 +28,5 @@ window.wwdb = [
         "grouping": [ 2, 2, 2, 1, 2, 1, 1, 2, 1, 1 ],
         "separate": "by_group",
         "filled": [ false, false, false, true, false, false, false, false, false, true ]
-    }
+    }*/
 ];
